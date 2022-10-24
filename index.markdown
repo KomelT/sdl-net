@@ -164,4 +164,4 @@ has_toc: false
 
 9. Ko se računalnik reštarta sledi tem navodilom na povezavi:
 
-   [WiFi navodila 2](#windows-kabel-navodila-za-tiste-ki-jim-je-kabel-že-delal)
+   [Kabel navodila 2](#windows-kabel-navodila-za-tiste-ki-jim-je-kabel-že-delal)
