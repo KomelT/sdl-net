@@ -23,7 +23,7 @@ email: tilen.komel10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Neuradna navodila in priporočila za nastavitev interneta v Študentskih domovih Ljubljana.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://komelt.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://komelt.github.io/sdl-net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: "just-the-docs"
