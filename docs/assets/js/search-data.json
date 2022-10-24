@@ -1,0 +1,20 @@
+{"0": {
+    "doc": "Oktober 2022",
+    "title": "Oktober 2022",
+    "content": " ",
+    "url": "https://komelt.github.io/sdl-net/",
+    "relUrl": "/"
+  },"1": {
+    "doc": "Oktober 2022",
+    "title": "Navodila za tiste, ki jim je internet že delal:",
+    "content": ". | Windows . | WiFi (za tiste, ki jim je WiFi že delal) | Kabel (za tiste, ki jim je kabel že delal) | . | . ",
+    "url": "https://komelt.github.io/sdl-net/#navodila-za-tiste-ki-jim-je-internet-%C5%BEe-delal",
+    "relUrl": "/#navodila-za-tiste-ki-jim-je-internet-že-delal"
+  },"2": {
+    "doc": "Oktober 2022",
+    "title": "Navodila za bruce:",
+    "content": ". | Windows . | WiFi (za bruce) | Kabel (za bruce) | . | . Windows WiFi navodila (za tiste, ki jim je WiFi že delal) . | Poišči WiFi SDLnet in z desnim klikom klikni nanj in nato še klikni pozabi (če se ti “pozabi” ne prikaže preskoči ta korak). | V Windows Start meniju poišči nadzorno ploščo. | V nadzorni plošči izberi “Ogled stanja in opravila omrežja”. | Izberi “Namesti novo povezavo ali omrežje” in nato “Ročna povezava z brezžičnim omrežjem”. | Izpolni kot je na sliki in nato naprej. | Izberi “Spremeni nastavitve povezave” (Če tega ne vidiš 1. koraka nisi pravilno naredil). | V novem oknu, ki se odpre izberi zgoraj “varnost” in v spustnem meniju izberi “SecureW2: SecureW2 EAP-TTLS” (če tega ne najdeš pomeni, da nisi niti poskusil vzpostaviti interneta po navodilih. Sledi navodilom na tej povezavi WiFi. ) in nato klikni Nastavitve. | Nato v novem oknu klikni “Konfiguriraj”. Nato zgoraj “Certifikati”, odstrani kljukico pred “Preveri strežnik certifikata” in nato “Uporabniški računi”. | Tam odstrani kljukico izpred “Vprašaj uporabnika za geslo”. | Nato lahko zapreš vsa okna in moliš, da ti bo WiFi delal :) | . Windows kabel navodila (za tiste, ki jim je kabel že delal) . | V Windows Start meniju poišči nadzorno ploščo. | V nadzorni plošči izberi “Ogled stanja in opravila omrežja”. | Izberi “Spreminjanje nastavitve kartice”. | Nato desni klik na “Ethernet” in klikni na lastnosti. | V novem oknu klikni preverjanje prisotnosti in nato nastavitve. | V novem oknu, ki se odpre izberi zgoraj varnost in v spustnem meniju izberi “SecureW2: SecureW2 EAP-TTLS” (če tega ne najdeš pomeni, da nisi niti poskusil vzpostaviti interneta po navodilih. Sledi navodilom na tej povezavi Kabel. ) in nato klikni Nastavitve. | Nato v novem oknu klikni “Konfiguriraj”. Nato zgoraj “Certifikati”, odstrani kljukico pred “Preveri strežnik certifikata” in nato “Uporabniški računi”. | Tam odstrani kljukico izpred “Vprašaj uporabnika za geslo”. | Nato lahko zapreš vsa okna in moliš, da ti bo internet delal :) | Če ti ne dela pojdi nazaj na 4. korak in desni klik na ethernet in nato “Onemogoči”, počakaj 10s in nato desni klik na ethernet in “Omogoči”. Mogoče boš moral to nekajkrat ponovit. | . Windows WiFi za bruce . | Inštaliraj najprej SecureW2, Eduroam client. | Klikni na prenešeno datoteko in izberi “Geslo shrani” in naprej. | Izberi Slovenščino in naprej. | Izberi naprej. | Izberi “se strinjam”. | Izberi “TTLS” in nato naprej. | Vnesi uporabniško ime in geslo, ki si ga prejel ob prihodu na listu papirja in nato vredu. | Zapri in shrani na računalniku vse dragocene stvari in nato izberi “ponovni zagon” in dokončaj. | Ko se računalnik reštarta sledi tem navodilom na povezavi: . WiFi navodila 2 . | . Windows kabel za bruce . | Inštaliraj najprej SecureW2, Eduroam client. | Klikni na prenešeno datoteko in izberi “Geslo shrani” in naprej. | Izberi Slovenščino in naprej. | Izberi naprej. | Izberi “se strinjam”. | Izberi “TTLS” in nato naprej. | Vnesi uporabniško ime in geslo, ki si ga prejel ob prihodu na listu papirja in nato vredu. | Zapri in shrani na računalniku vse dragocene stvari in nato izberi “ponovni zagon” in dokončaj. | Ko se računalnik reštarta sledi tem navodilom na povezavi: . WiFi navodila 2 . | . ",
+    "url": "https://komelt.github.io/sdl-net/#navodila-za-bruce",
+    "relUrl": "/#navodila-za-bruce"
+  }
+}
