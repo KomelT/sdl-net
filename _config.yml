@@ -27,6 +27,7 @@ url: "https://komelt.github.io/sdl-net" # the base hostname & protocol for your 
 
 # Build settings
 theme: "just-the-docs"
+destination: docs/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
